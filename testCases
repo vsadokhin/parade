@@ -1,0 +1,65 @@
+Case 1 (from assignment)
+Input:
+3 3 2
+0 1
+0 2
+0 3
+100 1
+200 2 
+300 3
+
+Output:
+40000
+
+Case 2 one knight with horses required
+Input:
+3 4 1
+10 20
+20 10
+10 10
+20 40
+5 5
+20 20
+5 0
+
+Output:
+50
+
+Case 3 two knights with horses required
+Input:
+3 4 2
+10 20
+20 10
+10 10
+20 40
+5 5
+20 20
+5 0
+
+Output:
+100
+
+Case 4 three knights with horses required
+Input:
+3 4 3
+10 20
+20 10
+10 10
+20 40
+5 5
+20 20
+5 0
+
+Output:
+250
+
+Case 5 tricky corner case
+Input:
+2 2 2
+2 1
+8 1
+2 5
+2 10
+
+Output:
+81
